@@ -1,0 +1,22 @@
+{
+  "name": "file-server",
+  "version": "1.0.0",
+  "description": "Server that can pass clients specified files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/graemenickerson/file-server.git"
+  },
+  "author": "Graeme Nickerson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/graemenickerson/file-server/issues"
+  },
+  "homepage": "https://github.com/graemenickerson/file-server#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
